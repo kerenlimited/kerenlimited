@@ -13,7 +13,7 @@ cd
 git clone https://github.com/kerenlimited/kerenlimited.git
 ls
 cd kerenlimited
-bash kerenlimited.sh
+bash Kirem-Tools.sh
 
 #SELAMAT MENCOBA
 #HAPPY FUN :)
