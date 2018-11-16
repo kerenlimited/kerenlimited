@@ -8,6 +8,9 @@ pkg install upgrade
 pkg install zip
 pkg install bash
 pkg install unzip
+cd
+ls
+cd kerenlimited
 bash kerenlimited.sh
 
 #HAPPY FUN :)
