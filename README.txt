@@ -8,10 +8,13 @@ pkg install upgrade
 pkg install zip
 pkg install bash
 pkg install unzip
+pkg install git
 cd
+git clone https://github.com/kerenlimited/kerenlimited.git
 ls
 cd kerenlimited
 bash kerenlimited.sh
 
+#SELAMAT MENCOBA
 #HAPPY FUN :)
 GOODBYE!
