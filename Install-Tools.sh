@@ -11,4 +11,5 @@ figlet GoodBye!
 figlet naik kereta dulu sana :v
 pkg install sl
 sl
+figlet EXTRACT TOOLLS
 unzip kerenlimited.zip
