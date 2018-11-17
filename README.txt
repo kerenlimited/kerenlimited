@@ -13,7 +13,7 @@ cd
 git clone https://github.com/kerenlimited/kerenlimited.git
 ls
 cd kerenlimited
-bash Install-Tools.sh
+bash install.sh
 
 #SELAMAT MENCOBA
 #HAPPY FUN :)
